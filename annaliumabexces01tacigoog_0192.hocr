@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./annaliumabexces01tacigoog_0192.png"; bbox 0 0 2992 4890; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 407 1909 1138 2006">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 407 1909 1138 2006">
+     <span class='ocr_line' id='line_1_1' title="bbox 407 1909 1138 2006; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 407 1912 457 2004; x_wconf 92' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 496 1909 843 2006; x_wconf 86' lang='lat' dir='ltr'><strong>CORNELII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 890 1910 1138 2006; x_wconf 85' lang='lat' dir='ltr'><strong>TACITI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 193 2207 1352 2287">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 193 2207 1352 2287">
+     <span class='ocr_line' id='line_1_2' title="bbox 193 2207 1352 2287; baseline -0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 193 2210 500 2287; x_wconf 88' lang='lat' dir='ltr'><strong>ANNALIUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 538 2211 610 2284; x_wconf 87' lang='lat' dir='ltr'><strong>AB</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 647 2211 900 2286; x_wconf 86' lang='lat' dir='ltr'>EXCESSU</span> <span class='ocrx_word' id='word_1_7' title='bbox 942 2210 1060 2283; x_wconf 93' lang='lat' dir='ltr'><strong>DIVI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1099 2207 1352 2286; x_wconf 83' lang='lat' dir='ltr'><strong>AUGUSTI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 643 2507 894 2591">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 643 2507 894 2591">
+     <span class='ocr_line' id='line_1_3' title="bbox 643 2507 894 2591; baseline -0.012 -1"><span class='ocrx_word' id='word_1_9' title='bbox 643 2508 834 2591; x_wconf 88' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 876 2507 894 2587; x_wconf 96' lang='lat' dir='ltr'><strong>I</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1500 4890">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1500 4890">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1500 4890; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1500 4890; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
